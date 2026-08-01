@@ -1,2 +1,2 @@
 # Apple-Financial-Model
-Financial modeling and valuation of Apple Inc. using Excel, including three-statement modeling, ratio analysis, DCF valuation, and scenario analysis.
+Developed a comprehensive financial model of Apple Inc. in Microsoft Excel, including three-statement modeling, ratio analysis, DCF valuation, scenario analysis, and financial performance evaluation.
